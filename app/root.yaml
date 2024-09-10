@@ -1,0 +1,7 @@
+imports:  
+  - artifacts/root.yaml
+  - aspects/root.yaml
+  - libraries/root.yaml
+  - reports/root.yaml
+  - systems/root.yaml  
+  - users/root.yaml
