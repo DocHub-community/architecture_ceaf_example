@@ -7,3 +7,6 @@ imports:
 
 # Сервисы БЮ Заводь бегемотов
   - bu_hippos/root.yaml
+
+# Подключаем описание доменов
+  - units.yaml

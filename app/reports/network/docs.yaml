@@ -8,10 +8,6 @@ docs:
 
   systems_table_network:
     type: network
-    subjects:
-      - swamp.bu_crocodiles.autoforms
-      - swamp.bu_crocodiles.credit_calc
-      - swamp.bu_crocodiles.your_house
     source: >
       (
         $manifest := $;

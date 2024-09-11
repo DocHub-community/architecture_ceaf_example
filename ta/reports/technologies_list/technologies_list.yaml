@@ -27,9 +27,9 @@ docs:
         align: left
         width: 40%
 
-    source: swamp.dataset.technologies_list
+    source: ceaf.app.dataset.technologies_list
 
   technologies_list:
-    location: Технологическая архитектура/Таблица технологий
+    location: Архитектура/Техническая/Таблица технологий
     type: markdown
     source: technologies_table.md
