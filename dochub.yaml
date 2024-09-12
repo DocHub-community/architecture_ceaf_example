@@ -18,3 +18,4 @@ imports:
   - ia/root.yaml
   - ta/root.yaml
   - welcome/root.yaml
+  # - ../ceaf_doc/dochub.yaml
